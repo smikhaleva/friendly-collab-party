@@ -1,3 +1,9 @@
 # Friendly Collab Party
 
-Better understanding of GitHub as a repository and better usage in terms of downloading and sharing codes.
+## Description of my project
+
+Hello! This is the "Friendly Collab Party" folder. This project is used for the following purposes:
+
+- learn about versions
+- learn about collaboration
+- work with github
